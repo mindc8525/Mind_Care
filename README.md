@@ -24,7 +24,7 @@ It loads anonymized mental health rating data from a backend API (served from a 
 
 ## Contributers
 
-**Jayant Mitawa**
-**Kushagra Singh**
-**Ashish Rawal**
-**Kushal Jain**
+**Jayant Mitawa**  
+**Kushagra Singh**  
+**Ashish Rawal**  
+**Kushal Jain**   
