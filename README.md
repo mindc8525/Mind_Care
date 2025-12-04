@@ -1,13 +1,26 @@
-# React + Vite
+# MindCare 🧠📊
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MindCare is a simple mental health analytics dashboard.  
+It loads anonymized mental health rating data from a backend API (served from a CSV file) and visualizes it in a clean React UI for quick insight and exploration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- 📂 Fetches rating data from a backend instead of bundling CSV in the frontend
+- 📊 Parses CSV data and displays it in interactive tables/charts
+- 🔍 Basic filtering / exploration of mental health metrics
+- ⚛️ Built with a lightweight React frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-Kushal Jain
+---
+
+## Tech Stack
+
+- **Frontend:** React, JavaScript, [PapaParse](https://www.papaparse.com/) (CSV parsing, if used client-side)
+- **Backend:** Node.js + Express (serves CSV content as JSON)
+- **Data Source:** Local CSV file (anonymized ratings)
+
+---
+
+## Contributers
+
