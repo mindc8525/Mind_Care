@@ -1,0 +1,20 @@
+<svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;display=swap');
+        </style>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-icon" transform="translate(4.000000, 2.000000)">
+            <path d="M8,14 L8,9 C8,8.58578644 7.82842712,8.22842712 7.5,8.05 C7.17157288,8.22842712 7,8.58578644 7,9 L7,14 L8,14 Z M7.5,9.5 C8.32842712,9.5 9,8.82842712 9,8 C9,7.17157288 8.32842712,6.5 7.5,6.5 C6.67157288,6.5 6,7.17157288 6,8 C6,8.82842712 6.67157288,9.5 7.5,9.5 Z" id="trunk-heart" fill="#2d6a4f"></path>
+            
+            <path d="M7.5,7 C3.5,7 0.5,5.5 0.5,2.5 C0.5,-0.5 3.5,0 7.5,3.5 C7.5,3.5 7.5,7 7.5,7 Z" id="left-hemisphere" fill="#40916c"></path>
+            
+            <path d="M7.5,7 C11.5,7 14.5,5.5 14.5,2.5 C14.5,-0.5 11.5,0 7.5,3.5 C7.5,3.5 7.5,7 7.5,7 Z" id="right-hemisphere" fill="#52b788"></path>
+        </g>
+        
+        <text id="mindcare-text" font-family="Poppins, sans-serif" font-size="3.5" font-weight="normal" fill="#333333" text-anchor="middle" x="12" y="20.5">
+            <tspan font-weight="600">Mind</tspan><tspan font-weight="400">Care</tspan>
+        </text>
+    </g>
+</svg>
